@@ -1,0 +1,15 @@
+{
+  "name": "For Us",
+  "short_name": "For Us",
+  "description": "A quiet app for couples: spin for a date idea, keep track of what you've tried, and decide together.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#1B1027",
+  "theme_color": "#1B1027",
+  "lang": "en",
+  "icons": [
+    { "src": "/assets/img/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/assets/img/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
